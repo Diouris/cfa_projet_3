@@ -9,6 +9,7 @@ via des requêtes SQL structurées.
 ---
 ## 🎯 Objectif 
 Extraire et structurer les données contractuelles et géographiques via 12 requêtes SQL pour répondre aux besoins d'analyse métier.
+
 ---
 ## 🛠️ Outils & Compétences mobilisés
 
