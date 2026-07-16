@@ -5,6 +5,7 @@ Projet centré sur la manipulation et l'extraction de données contractuelles et
 via des requêtes SQL structurées.
 
 **Date :** Novembre 2024
+
 ---
 ## 🎯 Objectif 
 Extraire et structurer les données contractuelles et géographiques via 12 requêtes SQL pour répondre aux besoins d'analyse métier.
