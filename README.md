@@ -1,17 +1,17 @@
-# 🎯PROJET 3 - Requêter une base de données avec SQL
+# PROJET 3 - Requêter une base de données avec SQL
 
-## 📌 Contexte & Scénario
+## Contexte & Scénario
 Projet centré sur la manipulation et l'extraction de données contractuelles et géographiques 
 via des requêtes SQL structurées.
 
 **Date :** Novembre 2024
 
 ---
-## 🎯 Objectif 
+## Objectif 
 Extraire et structurer les données contractuelles et géographiques via 12 requêtes SQL pour répondre aux besoins d'analyse métier.
 
 ---
-## 🛠️ Outils & Compétences mobilisés
+## Outils & Compétences mobilisés
 
 ### Outils utilisés
 | Outil | Usage |
@@ -24,7 +24,7 @@ Extraire et structurer les données contractuelles et géographiques via 12 requ
   - Créer un schéma d'une base de données
 - **Soft skills :** Posture Data Analyst, Storytelling, Aide à la décision business, RGPD,  Posture consultant, Compréhension du besoin utilisateur, Transformation d'un contexte flou en objectif analytique
 ---
-## 📦 Livrables produits
+## Livrables produits
 - [x] Schéma relationnel
 - [x] Requêtes SQL
 - [x] Dictionnaire de données
